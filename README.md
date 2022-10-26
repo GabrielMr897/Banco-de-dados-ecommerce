@@ -1,7 +1,4 @@
-<h1> <img src="https://th.bing.com/th/id/R.bb1c9d0211166696e4231861069db345?rik=LjfBqJNQa4qjYA&riu=http%3a%2f%2fserratec.org%2fwp-content%2fuploads%2f2018%2f01%2flogo-neq.png&ehk=UX2PIBZu2C7%2bPDHStWdX2SnCxEq2oCIVPjjhJpLFYE8%3d&risl=&pid=ImgRaw&r=0">
-
-<br>
-<br>
+<h1> 
 <p>Residência em software</p>
 </h1>
 
